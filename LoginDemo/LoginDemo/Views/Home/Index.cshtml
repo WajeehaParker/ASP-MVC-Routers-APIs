@@ -1,0 +1,50 @@
+﻿@model IEnumerable<LoginDemo.Models.User>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+    <a style="float:right" asp-action="Login">Login</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Department)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => emp.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => emp.Username)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => emp.Gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => emp.Department)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

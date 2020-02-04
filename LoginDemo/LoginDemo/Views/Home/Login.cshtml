@@ -1,0 +1,30 @@
+﻿@model LoginDemo.Models.User
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<div style="padding-top:50px;"></div>
+<div style="padding:50px;">
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                <form asp-action="Login">
+                    <div>
+                        @Html.AntiForgeryToken()
+                        <div><label>Username</label><br /></div>
+                        <div>@Html.TextBoxFor(m => m.Username, new {@required  = "required", @class = "form-control txtbox" })</div>
+
+                        <div style="padding-top:20px;"><label>Password</label><br /></div>
+                        <div>@Html.PasswordFor(m => m.Password, new {@required  = "required", @class = "form-control txtbox" })</div>
+                        @ViewBag.Message
+
+                        <div style="padding-left:35%;width:40%;padding-top:20px;">
+                            <input class="btn btn-primary btn-lg rph-login-button" type="submit" value="Login" />
+                        </div>
+                        <a asp-action="Index">Back</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+</div>
