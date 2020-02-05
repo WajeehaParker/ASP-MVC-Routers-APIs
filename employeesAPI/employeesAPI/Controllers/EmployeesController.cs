@@ -8,11 +8,49 @@ using employeesAPI.Models;
 
 namespace employeesAPI.Controllers
 {
-   // [Route("api/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class EmployeesController : ControllerBase
     {
         EmployeeDB employeeDB = new EmployeeDB();
+
+        // GET api/values
+        [HttpGet]
+        public IEnumerable<Employee> Get()
+        {
+            return employeeDB.getAllEmployee().ToList();
+        }
+
+        // GET api/values/5
+        [HttpGet("{id}")]
+        public Employee Get(int id)
+        {
+            return employeeDB.getEmployeeByID(id);
+        }
+
+        // POST api/values
+        [HttpPost]
+        public void Post([FromBody] Employee emp)
+        {
+            employeeDB.addEmployee(emp);
+        }
+
+        // PUT api/values/5
+        [HttpPut]
+        public void Put([FromBody] Employee emp)
+        {
+            employeeDB.updateEmployee(emp);
+        }
+
+        // DELETE api/values/5
+        [HttpDelete("{id}")]
+        public void Delete(int id)
+        {
+            employeeDB.deleteEmployee(id);
+        }
+
+        /*
+         * EmployeeDB employeeDB = new EmployeeDB();
         [HttpGet("all")]
         public ActionResult<IEnumerable<Employee>> Index()
         {
@@ -62,5 +100,7 @@ namespace employeesAPI.Controllers
             employeeDB.deleteEmployee(id);
             return Accepted();
         }
+        */
     }
 }
+ 

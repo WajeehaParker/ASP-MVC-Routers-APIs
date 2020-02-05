@@ -81,3 +81,36 @@ C:\Users\nali046\Desktop\APIAuthentication\LoginDemo\LoginDemo\obj\Debug\netcore
 C:\Users\nali046\Desktop\APIAuthentication\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.csproj.CopyComplete
 C:\Users\nali046\Desktop\APIAuthentication\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
 C:\Users\nali046\Desktop\APIAuthentication\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\bin\Debug\netcoreapp2.1\LoginDemo.deps.json
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\bin\Debug\netcoreapp2.1\LoginDemo.runtimeconfig.json
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\bin\Debug\netcoreapp2.1\LoginDemo.runtimeconfig.dev.json
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\bin\Debug\netcoreapp2.1\LoginDemo.dll
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\bin\Debug\netcoreapp2.1\LoginDemo.pdb
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\bin\Debug\netcoreapp2.1\LoginDemo.Views.dll
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\bin\Debug\netcoreapp2.1\LoginDemo.Views.pdb
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.RazorAssemblyInfo.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.RazorAssemblyInfo.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.AssemblyInfo.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.TagHelpers.input.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.TagHelpers.output.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.RazorCoreGenerate.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.Views.pdb
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.dll
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.pdb
+C:\Users\Home\Desktop\API Authentication ASP.Net\LoginDemo\LoginDemo\obj\Debug\netcoreapp2.1\LoginDemo.csproj.CopyComplete

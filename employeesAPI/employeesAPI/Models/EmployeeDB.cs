@@ -9,7 +9,7 @@ namespace employeesAPI.Models
 {
     public class EmployeeDB
     {
-        string connectionString = "Data Source=PK-KTCRA218; Initial Catalog=employees;Persist Security Info=False;User ID=sa;password=Admin!23;";
+        string connectionString = "Data Source=DESKTOP-65N8NPI\\SQLEXPRESS; Initial Catalog=employee;Persist Security Info=False;User ID=wajeeha;password=16101997;";
 
         //get all employees
         public IEnumerable<Employee> getAllEmployee()

@@ -83,7 +83,8 @@ namespace LoginDemo.Controllers
                         return View(emp);
                     }
                 }
-                await client.GetStringAsync("https://localhost:44330/create?name="+emp.Name+"&gender="+emp.Gender+"&department="+emp.Department+"&username="+emp.Username.Trim()+"&password="+emp.Password);
+                //await client.GetStringAsync("https://localhost:44330/create?name="+emp.Name+"&gender="+emp.Gender+"&department="+emp.Department+"&username="+emp.Username.Trim()+"&password="+emp.Password);
+                await client.PostAsJsonAsync("https://localhost:44330/api/employees", emp);
                 return RedirectToAction("Index");
             }
             return View(emp);
@@ -102,7 +103,8 @@ namespace LoginDemo.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteEmp()
         {
-            await client.GetStringAsync("https://localhost:44330/delete?id="+Int16.Parse(HttpContext.User.Identity.Name));
+            //await client.GetStringAsync("https://localhost:44330/delete?id="+Int16.Parse(HttpContext.User.Identity.Name));
+            await client.DeleteAsync($"https://localhost:44330/api/employees/{Int16.Parse(HttpContext.User.Identity.Name)}");
             return RedirectToAction("Index");
         }
 
@@ -131,7 +133,8 @@ namespace LoginDemo.Controllers
                         return View(emp);
                     }
                 }
-                await client.GetStringAsync("https://localhost:44330/edit?id="+Int16.Parse(HttpContext.User.Identity.Name)+"&name="+emp.Name+"&gender="+emp.Gender+"&department="+emp.Department+"&username="+emp.Username.Trim()+"&password="+emp.Password);
+                //await client.GetStringAsync("https://localhost:44330/edit?id="+Int16.Parse(HttpContext.User.Identity.Name)+"&name="+emp.Name+"&gender="+emp.Gender+"&department="+emp.Department+"&username="+emp.Username.Trim()+"&password="+emp.Password);
+                await client.PutAsJsonAsync("https://localhost:44330/api/employees", emp);
                 return RedirectToAction("Details/");
             }
             return View(emp);
@@ -146,14 +149,14 @@ namespace LoginDemo.Controllers
                               Department = HttpContext.User.FindFirst("PASSWORD").Value,
                               Password = HttpContext.User.FindFirst("DEPARTMENT").Value
                             };*/
-            var responseString = await client.GetStringAsync("https://localhost:44330/emp?id="+Int16.Parse(HttpContext.User.Identity.Name));
+            var responseString = await client.GetStringAsync($"https://localhost:44330/api/employees/{Int16.Parse(HttpContext.User.Identity.Name)}");
             JsonTextReader rs = new JsonTextReader(new StringReader(responseString));
-            return new JsonSerializer().Deserialize(rs, typeof(User)) as User;
+            return (new JsonSerializer().Deserialize(rs, typeof(User)) as User);
         }
 
         public async Task<List<User>> getAllUsers()
         {
-            var responseString = await client.GetStringAsync("https://localhost:44330/all");
+            var responseString = await client.GetStringAsync("https://localhost:44330/api/employees");
             JsonTextReader rs = new JsonTextReader(new StringReader(responseString));
             return new JsonSerializer().Deserialize(rs, typeof(List<User>)) as List<User>;
         }

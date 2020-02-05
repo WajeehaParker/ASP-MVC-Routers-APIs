@@ -62,3 +62,37 @@ C:\Users\nali046\Desktop\APIAuthentication\employeesAPI\employeesAPI\obj\Debug\n
 C:\Users\nali046\Desktop\APIAuthentication\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.dll
 C:\Users\nali046\Desktop\APIAuthentication\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.pdb
 C:\Users\nali046\Desktop\APIAuthentication\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.csproj.CopyComplete
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\bin\Debug\netcoreapp2.1\employeesAPI.deps.json
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\bin\Debug\netcoreapp2.1\employeesAPI.runtimeconfig.json
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\bin\Debug\netcoreapp2.1\employeesAPI.runtimeconfig.dev.json
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\bin\Debug\netcoreapp2.1\employeesAPI.dll
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\bin\Debug\netcoreapp2.1\employeesAPI.pdb
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\bin\Debug\netcoreapp2.1\employeesAPI.Views.dll
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\bin\Debug\netcoreapp2.1\employeesAPI.Views.pdb
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.RazorAssemblyInfo.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.RazorAssemblyInfo.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.AssemblyInfo.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.TagHelpers.input.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.TagHelpers.output.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.RazorCoreGenerate.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.RazorTargetAssemblyInfo.cs
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.Views.pdb
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.dll
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.pdb
+C:\Users\Home\Desktop\API Authentication ASP.Net\employeesAPI\employeesAPI\obj\Debug\netcoreapp2.1\employeesAPI.csproj.CopyComplete

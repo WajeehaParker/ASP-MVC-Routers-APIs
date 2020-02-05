@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nali046\\Desktop\\APIAuthentication\\employeesAPI\\employeesAPI\\employeesAPI.csproj": {}
+    "C:\\Users\\Home\\Desktop\\API Authentication ASP.Net\\employeesAPI\\employeesAPI\\employeesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nali046\\Desktop\\APIAuthentication\\employeesAPI\\employeesAPI\\employeesAPI.csproj": {
+    "C:\\Users\\Home\\Desktop\\API Authentication ASP.Net\\employeesAPI\\employeesAPI\\employeesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nali046\\Desktop\\APIAuthentication\\employeesAPI\\employeesAPI\\employeesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Desktop\\API Authentication ASP.Net\\employeesAPI\\employeesAPI\\employeesAPI.csproj",
         "projectName": "employeesAPI",
-        "projectPath": "C:\\Users\\nali046\\Desktop\\APIAuthentication\\employeesAPI\\employeesAPI\\employeesAPI.csproj",
-        "packagesPath": "C:\\Users\\nali046\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nali046\\Desktop\\APIAuthentication\\employeesAPI\\employeesAPI\\obj\\",
+        "projectPath": "C:\\Users\\Home\\Desktop\\API Authentication ASP.Net\\employeesAPI\\employeesAPI\\employeesAPI.csproj",
+        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Home\\Desktop\\API Authentication ASP.Net\\employeesAPI\\employeesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\nali046\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -61,6 +63,7 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
@@ -75,7 +78,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[2.1.9, )"
+              "version": "[2.1.10, )"
             },
             "Owin": {
               "target": "Package",
@@ -83,10 +86,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
